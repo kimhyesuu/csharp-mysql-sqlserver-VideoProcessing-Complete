@@ -6,8 +6,11 @@
 #사용 설명
 
 이미지 변환 program(color raw 파일 동시에 호환 가능)
-다운로드된 ppt 참고하시면 됩니다.
+ 
+videoprocessing2\VideoProcessing.pdf 에 설명 
 
-사용 방법 
+동작 설명
 
 유튜브 채널 : 
+
+읽어주셔서 감사합니다.
