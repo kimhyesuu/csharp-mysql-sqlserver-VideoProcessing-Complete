@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "video processing vol 3", "컴퓨터 비전(홍길동).Volume1\video processing vol 3.csproj", "{D9C317FB-5613-422C-A97D-FD749318DB0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C317FB-5613-422C-A97D-FD749318DB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C317FB-5613-422C-A97D-FD749318DB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C317FB-5613-422C-A97D-FD749318DB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C317FB-5613-422C-A97D-FD749318DB0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF1C9DCB-0F51-4360-9ACE-10968E01C7CC}
+	EndGlobalSection
+EndGlobal
