@@ -1,3 +1,16 @@
+#instruction
+
+    #name : Kimhyesu
+
+    #learning C# winform and video proccessing
+
+    # Youtube 채널 : 김혜수
+    # Tistory : https://khs2346.tistory.com/
+
+    # contact
+
+    # E-mail : juid00@naver.com
+
 # VideoProcessing
 
 개발 환경 : vs 2017 , mysql , sqlServer
