@@ -7,7 +7,7 @@
 
 이미지 변환 program(color raw 파일 동시에 호환 가능)
  
-videoprocessing2\VideoProcessing.pdf 에 설명 
+VideoProcessing.pdf 에 설명 
 
 동작 설명
 
